@@ -4,6 +4,7 @@
    justify-content: center;
    background: rgb(26, 26, 26);
    margin: auto;
+   margin-top: -70px;
    border-radius: 8px;
    border: 1px solid rgba(63, 63, 63, 0.562);
    width: 600px;
